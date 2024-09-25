@@ -2,11 +2,6 @@
  * The HiringTable class creates a table of Applicants that has different functions that is done of the array of Applicants in candidates.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #1 - Hiring System
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 public class HiringTable{
     // Creation of instance variables for the HiringTable class and setting final values for constants throughout the code.
