@@ -4,11 +4,6 @@ import java.util.Scanner;
  * The HiringSystem combines the functions of both Applicant and HiringTable and creates a system out of both classes.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #1 - Hiring System
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 public class HiringSystem{
     /**
