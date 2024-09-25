@@ -2,11 +2,6 @@
  * The Applicant class creates profiles for each applicant including the companies they have worked for, name, gpa, college, and skills.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #1 - Hiring System
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 public class Applicant implements Cloneable{
     // Initializing the variables for the Applicant class.
